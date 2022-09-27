@@ -7,9 +7,9 @@ public class Main {
         Triangulo triangulo = new Triangulo();
 
         System.out.print("Qual o valor para o cateto Adjacente: ");
-        Double catetoA = scanner.nextDouble();
+        trinagulo.setcCatetoA(scanner.nextDouble());
         System.out.print("Qual o valor para o cateto Oposto: ");
-        Double catetoB = scanner.nextDouble();
+        trinagulo.setcCatetoB(scanner.nextDouble());
 
         System.out.println(triangulo.toString());
     }

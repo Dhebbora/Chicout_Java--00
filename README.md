@@ -6,7 +6,7 @@ Ai resolvi refazer em casa :)
 </h3>
 
 
-<h4>Tá saindooooo o restoooo !! Aeeeeeeeeeeeeeeeeeee !!</h4>
+<h4>Calma que o restante tá indo de ré mas tá indo...</h4>
 <br>
 
 

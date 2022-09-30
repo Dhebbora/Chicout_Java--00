@@ -8,6 +8,6 @@ Ai resolvi refazer em casa :)
 
 <h4>Tá saindooooo o restoooo !! Aeeeeeeeeeeeeeeeeeee !!</h4>
 <br>
-![]([https://media.giphy.com/media/122JKAK2BrDx8Q/giphy.gif)](https://media.giphy.com/media/122JKAK2BrDx8Q/giphy.gif)
+![](https://media.giphy.com/media/122JKAK2BrDx8Q/giphy.gif)
 
 

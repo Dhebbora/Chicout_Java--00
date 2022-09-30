@@ -10,6 +10,6 @@ Ai resolvi refazer em casa :)
 <br>
 ![](https://media.giphy.com/media/122JKAK2BrDx8Q/giphy-downsized.gif)
 
- ![](https://media.giphy.com/media/xUOxfgmXP3EUTK4EPC/giphy-downsized.gif)
+<iframe src="https://giphy.com/embed/122JKAK2BrDx8Q" width="480" height="411" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/bette-midler-hocus-pocus-stolz-122JKAK2BrDx8Q">via GIPHY</a></p>
 
 
